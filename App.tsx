@@ -18,7 +18,6 @@ import {
   Zap,
   LayoutDashboard
 } from 'lucide-react';
-import AIGeneratedImage from './components/AIGeneratedImage';
 
 const App: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
