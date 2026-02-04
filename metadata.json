@@ -1,0 +1,7 @@
+{
+  "name": "Kết Nối Gia Sư Landing Page",
+  "description": "A modern, high-conversion landing page for a primary school tutoring service featuring AI-generated educational imagery and responsive design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
